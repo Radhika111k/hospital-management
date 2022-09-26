@@ -1,1 +1,2 @@
 GIT bash session
+que= edit existing file content and add check the status then commit then log anf finally push it.
